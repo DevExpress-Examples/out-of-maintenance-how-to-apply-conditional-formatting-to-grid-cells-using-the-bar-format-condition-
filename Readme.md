@@ -13,7 +13,7 @@
 
 ## Documentation
 
-[Conditional Formatting](https://docs.devexpress.com/Dashboard/402204])
+- [Conditional Formatting](https://docs.devexpress.com/Dashboard/402204)
 
 ## More Examples
 
